@@ -1,5 +1,9 @@
 var canvas = document.getElementById('myCanvas')
 
+var but = document.getElementById('clear')
+
+console.log('bbbb')
+
 canvas.addEventListener(
   'mousedown',
   function (e) {
